@@ -1,66 +1,98 @@
-Praguni Sanotra
+**👋 Hi there, I'm Praguni Sanotra!**
+Computer Science and Engineering Student | AI/ML Expert | Full-StacK Developer | Native-App Developer
 
-Hi! I'm Praguni, a driven Computer Science and Engineering student with a passion for designing scalable, AI-powered products that solve real-world challenges and drive global innovation. As the Smart India Hackathon 2024 Winner and Google Developers Group AI/ML Lead, I combine cutting-edge AI/ML expertise, full-stack development mastery, and a strategic vision to deliver transformative solutions. My work blends technical precision with creative problem-solving, creating products that are both impactful and enduring.
+I'm a **Smart India Hackathon 2024** Winner and the Google Developers Group AI/ML Lead (2024-2025), blending cutting-edge AI/ML, full-stack wizardry, and strategic leadership to build scalable, intelligent, and impactful products that drive global innovation.
+Whether it’s engineering voice-activated shopping experiences or creating 3D cultural maps, I design products that inspire and endure.
 
-🔭 What I'm Architecting
+**What I'm Architecting**
+**🚀 UnCapp (Founding Member, Tech)**
+Leading the development of scalable, high-performance platforms using React, Node.js, and MongoDB, and integrating advanced ML pipelines for smart, user-focused experiences. I also lead technical recruitment, assembling elite dev teams.
 
-UnCapp (Founding Member, Tech): Leading the development of scalable, high-performance products using React, Node.js, and MongoDB, integrating advanced ML pipelines to deliver intelligent, user-centric experiences. I also oversee technical recruitment, building elite teams through rigorous evaluations.
-Google Developers Group On-Campus AI/ML Lead (2024-2025): Spearheading disruptive AI products with Python, TensorFlow, PyTorch, and AWS, addressing complex challenges with scalable, innovative solutions.
-Pioneering advancements in Augmented Reality (AR), 3D modeling, and Large Language Models (LLMs) to create immersive, next-generation products that redefine user engagement.
+**Google Developers Group AI/ML Lead (2024–2025)**
+Driving innovation in AI products using Python, TensorFlow, PyTorch, and AWS to solve real-world problems at scale.
 
-🌱 What I'm Mastering
+**Frontiers I'm Exploring**
+Advancing Augmented Reality (AR), 3D modeling, and Large Language Models (LLMs) to reshape the way users interact with technology.
 
-Advanced NLP and LLM optimization to craft conversational AI with unparalleled precision.
-Cloud-native architectures with AWS, Docker, and Kubernetes for globally scalable product ecosystems.
-AR/VR and Web3 technologies to develop decentralized, immersive platforms that push technological boundaries.
+**What I'm Mastering**
+**Advanced NLP & LLM Optimization**
+Crafting conversational AI with unparalleled understanding and responsiveness.
 
-👯 What I Want to Co-Create
+**Cloud-Native Architectures**
+Building globally scalable ecosystems using AWS, Docker, and Kubernetes.
 
-Open-source AI/ML products revolutionizing predictive analytics, computer vision, or NLP for global impact.
-Scalable full-stack products leveraging MERN, FastAPI, or GraphQL to deliver fast, user-centric solutions.
-Hackathons and visionary initiatives, like my Smart India Hackathon-winning platform, connecting the Indian diaspora with MSME sellers.
+**AR/VR & Web3**
+Developing decentralized immersive platforms that challenge the status quo.
 
-🤔 Where I Seek Expertise
+**What I Want to Co-Create**
+**Open-Source AI/ML Products**
+Revolutionizing predictive analytics, computer vision, and natural language processing.
 
-Optimizing ML model inference for low-latency, high-throughput production environments.
-Integrating DIY blockchain integration into e-commerce products for secure, transparent, scalable transactions.
-Crafting seamless UI/UX for AR-driven products to maximize user immersion and engagement.
+**Full-Stack Scalable Solutions**
+Using MERN, FastAPI, or GraphQL to build lightning-fast, user-centric applications.
+
+**Hackathons & Visionary Initiatives**
+Like my SIH-winning platform, empowering the Indian diaspora to connect with MSME sellers.
+
+**Where I Seek Expertise**
+**Optimizing ML Inference**
+Ensuring low-latency, high-throughput performance in production.
+
+**Blockchain Integration in E-Commerce**
+Implementing DIY blockchain systems for secure, transparent transactions.
+
+**Immersive UI/UX for AR Products**
+Designing seamless interfaces that captivate and retain users.
 
 💬 Let’s Discuss
+🎯 My flagship platform DeshKriti —
+An AI-powered e-commerce ecosystem with AR product visualization, 3D cultural mapping, and a voice assistant that’s redefining global retail.
 
-My flagship product, DeshKriti, an AI-powered e-commerce ecosystem with AR product visualization, 3D cultural maps, and a voice-activated assistant that’s redefining global retail.
-How I secured the Smart India Hackathon 2024 by building a transformative platform for India Post, uniting the Indian diaspora with local MSME sellers.
-Strategies for architecting scalable AI/ML products, excelling in technical interviews, or dominating hackathons.
+🥇 How I won SIH 2024 by building a transformative India Post platform, connecting the diaspora with local MSME sellers.
 
-📫 Connect With Me
+🧱 Strategies for scalable AI product architecture, technical interviews, and hackathon domination.
 
-Email: sanotrapraguni@gmail.com
-Phone: +91 7889412726
-LinkedIn: https://www.linkedin.com/in/pragunisanotra/
-GitHub: https://github.com/Praguni-Sanotra
-LeetCode: https://leetcode.com/u/Praguni/
+**📫 Connect With Me**
+**📧 Email**: sanotrapraguni@gmail.com
 
-⚡ Fun Fact
-I’m a tech innovator who thrives on turning bold ideas into reality—whether it’s engineering a voice-activated AI for personalized shopping or designing a 3D interactive map of India to celebrate cultural heritage, I create products that inspire and endure.
+**💼 LinkedIn**: linkedin.com/in/pragunisanotra
 
-🛠️ My Expertise
-Programming
-Data Science & AI
-Full Stack Development
-Cloud & DevOps
- 
+**🧑‍💻 GitHub**: github.com/Praguni-Sanotra
 
-🏆 My Achievements
+**🧠 LeetCode**: leetcode.com/u/Praguni
 
-Winner, Smart India Hackathon 2024 (Software Edition): Engineered a groundbreaking platform for India Post, enabling the Indian diaspora to connect with MSME sellers through seamless international shipping, fostering cultural and economic unity.
-Google Developers Group On-Campus AI/ML Lead (2024-2025): Leading high-impact AI products, leveraging Python, TensorFlow, and AWS to deliver industry-leading solutions.
-Built DeshKriti, a visionary AI-powered e-commerce product with AR visualization, 3D cultural exploration, and a voice-activated assistant, setting a new benchmark for global retail.
+**⚡ Fun Fact**
+I'm a tech innovator who thrives on turning bold ideas into real-world impact—from AI shopping assistants to 3D cultural experiences, I engineer products that leave a legacy.
 
-📈 Flagship Products
+**🛠️ My Expertise**
+Programming Languages: Python, JavaScript, C++
 
-DeshKriti: A MERN-stack e-commerce ecosystem with Redux, AR integration, and a voice-activated AI assistant, delivering secure transactions and immersive cultural exploration via a 3D map of India.
-End-to-End Student Report Analyser: A Python-driven product using Pandas, Scikit-learn, and Flask, with a React.js frontend, providing real-time student performance predictions and personalized recommendations.
-Iris Flower Classification: A high-performance ML product using Logistic Regression, Decision Trees, and SVM, achieving exceptional accuracy through advanced preprocessing.
+AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn, Flask, Django
 
+Full Stack Development: MERN, FastAPI, RestAPI
 
-I invite you to explore my repositories and connect to discuss potential collaborations, mentorship opportunities, or shared passions for technology and innovation. Let’s build scalable, world-changing products together! 🚀
+Cloud & DevOps: AWS, Docker, Kubernetes
+
+Other Tools: Redux, Flask, Pandas, Git
+
+**🏆 My Achievements**
+**🏅 Winner, Smart India Hackathon 2024**
+Built a platform for India Post, empowering Indian MSMEs to reach the global diaspora via seamless international shipping.
+
+**💡 Google Developers Group On-Campus AI/ML Lead**
+Spearheading high-impact AI projects for 2024–2025 using Python, TensorFlow, and AWS.
+
+🌏 Built DeshKriti
+A visionary e-commerce product that fuses AR, 3D cultural mapping, and a voice-powered AI assistant for a next-gen shopping experience.
+
+📈 Flagship Projects
+🛍️ DeshKriti
+A MERN-stack e-commerce ecosystem using Redux, AR visualization, and a voice-activated AI assistant, with 3D cultural exploration and secure transaction flows.
+
+🧑‍🎓 End-to-End Student Report Analyser
+Python, Flask & React-powered tool with Pandas, Scikit-learn backend—delivers real-time performance insights and personalized recommendations.
+
+🌸 Iris Flower Classification
+Built with Logistic Regression, SVM, and Decision Trees, this project demonstrates strong data preprocessing and high model accuracy.
+
+Let’s co-create scalable, world-changing innovations that inspire!
