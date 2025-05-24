@@ -1,10 +1,12 @@
 **👋 Hi there, I'm Praguni Sanotra!**
+
 Computer Science and Engineering Student | AI/ML Expert | Full-StacK Developer | Native-App Developer
 
 I'm a **Smart India Hackathon 2024** Winner and the Google Developers Group AI/ML Lead (2024-2025), blending cutting-edge AI/ML, full-stack wizardry, and strategic leadership to build scalable, intelligent, and impactful products that drive global innovation.
 Whether it’s engineering voice-activated shopping experiences or creating 3D cultural maps, I design products that inspire and endure.
 
 **What I'm Architecting**
+
 **🚀 UnCapp (Founding Member, Tech)**
 Leading the development of scalable, high-performance platforms using React, Node.js, and MongoDB, and integrating advanced ML pipelines for smart, user-focused experiences. I also lead technical recruitment, assembling elite dev teams.
 
