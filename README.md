@@ -8,6 +8,7 @@ Whether it’s engineering voice-activated shopping experiences or creating 3D c
 **What I'm Architecting**
 
 **🚀 UnCapp (Founding Member, Tech)**
+
 Leading the development of scalable, high-performance platforms using React, Node.js, and MongoDB, and integrating advanced ML pipelines for smart, user-focused experiences. I also lead technical recruitment, assembling elite dev teams.
 
 **Google Developers Group AI/ML Lead (2024–2025)**
@@ -47,6 +48,7 @@ Implementing DIY blockchain systems for secure, transparent transactions.
 Designing seamless interfaces that captivate and retain users.
 
 💬 Let’s Discuss
+
 🎯 My flagship platform DeshKriti —
 An AI-powered e-commerce ecosystem with AR product visualization, 3D cultural mapping, and a voice assistant that’s redefining global retail.
 
@@ -55,6 +57,7 @@ An AI-powered e-commerce ecosystem with AR product visualization, 3D cultural ma
 🧱 Strategies for scalable AI product architecture, technical interviews, and hackathon domination.
 
 **📫 Connect With Me**
+
 **📧 Email**: sanotrapraguni@gmail.com
 
 **💼 LinkedIn**: linkedin.com/in/pragunisanotra
@@ -64,9 +67,11 @@ An AI-powered e-commerce ecosystem with AR product visualization, 3D cultural ma
 **🧠 LeetCode**: leetcode.com/u/Praguni
 
 **⚡ Fun Fact**
+
 I'm a tech innovator who thrives on turning bold ideas into real-world impact—from AI shopping assistants to 3D cultural experiences, I engineer products that leave a legacy.
 
 **🛠️ My Expertise**
+
 Programming Languages: Python, JavaScript, C++
 
 AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn, Flask, Django
@@ -78,6 +83,7 @@ Cloud & DevOps: AWS, Docker, Kubernetes
 Other Tools: Redux, Flask, Pandas, Git
 
 **🏆 My Achievements**
+
 **🏅 Winner, Smart India Hackathon 2024**
 Built a platform for India Post, empowering Indian MSMEs to reach the global diaspora via seamless international shipping.
 
