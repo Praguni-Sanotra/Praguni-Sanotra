@@ -15,9 +15,11 @@ Leading the development of scalable, high-performance platforms using React, Nod
 Driving innovation in AI products using Python, TensorFlow, PyTorch, and AWS to solve real-world problems at scale.
 
 **Frontiers I'm Exploring**
+
 Advancing Augmented Reality (AR), 3D modeling, and Large Language Models (LLMs) to reshape the way users interact with technology.
 
 **What I'm Mastering**
+
 **Advanced NLP & LLM Optimization**
 Crafting conversational AI with unparalleled understanding and responsiveness.
 
