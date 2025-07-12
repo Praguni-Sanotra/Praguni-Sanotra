@@ -1,108 +1,23 @@
-**👋 Hi there, I'm Praguni Sanotra!**
+<h1 align="center">Hi 👋, I'm Praguni Sanotra</h1>
+<h3 align="center">A passionate AI/ML Developer & Full‑Stack Engineer</h3>
 
-Computer Science and Engineering Student | AI/ML Expert | Full-StacK Developer | Native-App Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praguni-sanotra&label=Profile%20views&color=0e75b6&style=flat" alt="praguni-sanotra" /> </p>
 
-I'm a **Smart India Hackathon 2024** Winner and the Google Developers Group AI/ML Lead (2024-2025), blending cutting-edge AI/ML, full-stack wizardry, and strategic leadership to build scalable, intelligent, and impactful products that drive global innovation.
-Whether it’s engineering voice-activated shopping experiences or creating 3D cultural maps, I design products that inspire and endure.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praguni-sanotra" alt="praguni-sanotra" /></a> </p>
 
-**What I'm Architecting**
+- Email me: **sanotratopraguni@gmail.com**
 
-**🚀 UnCapp (Founding Member, Tech)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pragunisanotra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragunisanotra/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/praguni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/praguni/" height="30" width="40" /></a>
+</p>
 
-Leading the development of scalable, high-performance platforms using React, Node.js, and MongoDB, and integrating advanced ML pipelines for smart, user-focused experiences. I also lead technical recruitment, assembling elite dev teams.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-**Google Developers Group AI/ML Lead (2024–2025)**
-Driving innovation in AI products using Python, TensorFlow, PyTorch, and AWS to solve real-world problems at scale.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praguni-sanotra&show_icons=true&locale=en&layout=compact" alt="praguni-sanotra" /></p>
 
-**Frontiers I'm Exploring**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praguni-sanotra&show_icons=true&locale=en" alt="praguni-sanotra" /></p>
 
-Advancing Augmented Reality (AR), 3D modeling, and Large Language Models (LLMs) to reshape the way users interact with technology.
-
-**What I'm Mastering**
-
-**Advanced NLP & LLM Optimization**
-Crafting conversational AI with unparalleled understanding and responsiveness.
-
-**Cloud-Native Architectures**
-Building globally scalable ecosystems using AWS, Docker, and Kubernetes.
-
-**AR/VR & Web3**
-Developing decentralized immersive platforms that challenge the status quo.
-
-**What I Want to Co-Create**
-**Open-Source AI/ML Products**
-Revolutionizing predictive analytics, computer vision, and natural language processing.
-
-**Full-Stack Scalable Solutions**
-Using MERN, FastAPI, or GraphQL to build lightning-fast, user-centric applications.
-
-**Hackathons & Visionary Initiatives**
-Like my SIH-winning platform, empowering the Indian diaspora to connect with MSME sellers.
-
-**Where I Seek Expertise**
-**Optimizing ML Inference**
-Ensuring low-latency, high-throughput performance in production.
-
-**Blockchain Integration in E-Commerce**
-Implementing DIY blockchain systems for secure, transparent transactions.
-
-**Immersive UI/UX for AR Products**
-Designing seamless interfaces that captivate and retain users.
-
-💬 Let’s Discuss
-
-🎯 My flagship platform DeshKriti —
-An AI-powered e-commerce ecosystem with AR product visualization, 3D cultural mapping, and a voice assistant that’s redefining global retail.
-
-🥇 How I won SIH 2024 by building a transformative India Post platform, connecting the diaspora with local MSME sellers.
-
-🧱 Strategies for scalable AI product architecture, technical interviews, and hackathon domination.
-
-**📫 Connect With Me**
-
-**📧 Email**: sanotrapraguni@gmail.com
-
-**💼 LinkedIn**: linkedin.com/in/pragunisanotra
-
-**🧑‍💻 GitHub**: github.com/Praguni-Sanotra
-
-**🧠 LeetCode**: leetcode.com/u/Praguni
-
-**⚡ Fun Fact**
-
-I'm a tech innovator who thrives on turning bold ideas into real-world impact—from AI shopping assistants to 3D cultural experiences, I engineer products that leave a legacy.
-
-**🛠️ My Expertise**
-
-Programming Languages: Python, JavaScript, C++
-
-AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn, Flask, Django
-
-Full Stack Development: MERN, FastAPI, RestAPI
-
-Cloud & DevOps: AWS, Docker, Kubernetes
-
-Other Tools: Redux, Flask, Pandas, Git
-
-**🏆 My Achievements**
-
-**🏅 Winner, Smart India Hackathon 2024**
-Built a platform for India Post, empowering Indian MSMEs to reach the global diaspora via seamless international shipping.
-
-**💡 Google Developers Group On-Campus AI/ML Lead**
-Spearheading high-impact AI projects for 2024–2025 using Python, TensorFlow, and AWS.
-
-🌏 Built DeshKriti
-A visionary e-commerce product that fuses AR, 3D cultural mapping, and a voice-powered AI assistant for a next-gen shopping experience.
-
-📈 Flagship Projects
-🛍️ DeshKriti
-A MERN-stack e-commerce ecosystem using Redux, AR visualization, and a voice-activated AI assistant, with 3D cultural exploration and secure transaction flows.
-
-🧑‍🎓 End-to-End Student Report Analyser
-Python, Flask & React-powered tool with Pandas, Scikit-learn backend—delivers real-time performance insights and personalized recommendations.
-
-🌸 Iris Flower Classification
-Built with Logistic Regression, SVM, and Decision Trees, this project demonstrates strong data preprocessing and high model accuracy.
-
-Let’s co-create scalable, world-changing innovations that inspire!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praguni-sanotra&" alt="praguni-sanotra" /></p>
