@@ -21,15 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praguni-sanotra&show_icons=true&locale=en" alt="praguni-sanotra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praguni-sanotra&" alt="praguni-sanotra" /></p>
-
-
-
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
