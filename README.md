@@ -1,6 +1,6 @@
 Hi 👋, I'm Praguni Sanotra 
 
-A passionate AI/ML Developer & Full‑Stack Engineer from India<br><br>🚀 I craft end‑to‑end AI solutions—TensorFlow/PyTorch pipelines and MERN + Flask back‑ends—that power real products, not just demos.<br>🧠 From voice‑activated shopping assistants to AR‑driven 3D platforms, I build fast, modular agents that solve tangible problems.<br>📦 Clean code, performance, and delightful user experiences are my non‑negotiables.<br>🤝 YESIST12'25 FINALIST, SIH 2024 Winner & GDG AI/ML Lead, always learning, collaborating, and transforming bold ideas into impact.
+A passionate AI/ML Developer & Full‑Stack Engineer from India<br><br>🚀 I craft end‑to‑end AI solutions—TensorFlow/PyTorch pipelines and MERN + Flask back‑ends—that power real products, not just demos.<br>🧠 From voice‑activated shopping assistants to AR‑driven 3D platforms, I build fast, modular agents that solve tangible problems.<br>📦 Clean code, performance, and delightful user experiences are my non‑negotiables.<br>🤝 YESIST12'25 Finalist, SIH 2024 Winner & GDG AI/ML Lead, always learning, collaborating, and transforming bold ideas into impact.
 
 
 ## 🌐 Socials:
